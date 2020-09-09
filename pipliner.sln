@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pipliner", "pipliner\pipliner.csproj", "{13D5DA4C-AAA9-48AF-8D58-F70CB87EA17A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pipelinerXUnitTest", "pipelinerXUnitTest\pipelinerXUnitTest.csproj", "{BA093A3D-F636-4BAA-BEE7-65D2CA5D81A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D5DA4C-AAA9-48AF-8D58-F70CB87EA17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D5DA4C-AAA9-48AF-8D58-F70CB87EA17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D5DA4C-AAA9-48AF-8D58-F70CB87EA17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D5DA4C-AAA9-48AF-8D58-F70CB87EA17A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA093A3D-F636-4BAA-BEE7-65D2CA5D81A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA093A3D-F636-4BAA-BEE7-65D2CA5D81A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA093A3D-F636-4BAA-BEE7-65D2CA5D81A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA093A3D-F636-4BAA-BEE7-65D2CA5D81A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F251C495-E8C8-41D8-B541-1AFABC7807FE}
+	EndGlobalSection
+EndGlobal
